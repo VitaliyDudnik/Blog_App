@@ -1,2 +1,6 @@
 
-"Blog" App
+Blog App.
+
+Implement:
+
+SQL, 
