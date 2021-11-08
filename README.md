@@ -2,5 +2,4 @@
 Blog App.
 
 Implement:
-
-SQL, 
+Servlets & postgreSQL database
